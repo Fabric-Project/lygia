@@ -49,5 +49,4 @@ half4 compositeSourceOver(half4 srcColor, half4 dstColor)
 
     return result;
 }
-
 #endif
